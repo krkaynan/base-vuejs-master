@@ -1,0 +1,12 @@
+# BUILD
+dist
+
+# MODULES
+node_modules
+
+# LOCK FILES
+package-lock.json
+yarn.lock
+
+# ENV
+.env
